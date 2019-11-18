@@ -1,4 +1,8 @@
 @import "~bootstrap/scss/bootstrap";
+@import "color.scss";
+@import "font.scss";
 body {
-    background-color: blue;
+    background-color: $orange;
+    color :$blue;
 }
+
