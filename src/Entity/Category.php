@@ -31,9 +31,6 @@ class Category
     {
         $this->programs = new ArrayCollection();
     }
-    /*
-     *
-     */
     /**
      * @return Collection|Program[]
      */
